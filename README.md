@@ -2,17 +2,14 @@
 
 * The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
 
-* The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
+* Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
 
 # Algorithm_Model
 
-**Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
+#### **Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
 
 #### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
-
-![](/figures/Graphical_Abstract.jpg)
  
-Fig. 1. Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
  
 ## Results
  * Horizontally-Federated Learning vs Data-Centralised Learning
