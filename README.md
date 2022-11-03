@@ -1,22 +1,18 @@
 # FederatedHealth_HeartSound
+
+The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
+
 The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
 
 # Algorithm_Model
-The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
 
-## Abstract
-Early diagnosis of cardiovascular diseases is a crucial task in medical practice. With the application of computer audition in the healthcare field, artificial intelligence (AI) has been applied to clinical non-invasive intelligent auscultation of heart sounds to provide rapid and effective pre-screening. However, AI models generally require large amounts of data which may cause privacy issues. Unfortunately, it is difficult to collect large amounts of healthcare data from a single centre. In this study, we propose federated learning (FL) optimisation strategies for the practical application in multi-centre institutional heart sound databases. The horizontal federated learning is mainly employed to tackle the privacy problem by aligning the feature spaces of the participants without information leakage. In addition, techniques based on deep learning have poor interpretability due to their ``black-box" property, which limits the feasibility of AI in real medical data. To this end, vertical federated learning is utilised to address the issues of model interpretability and data scarcity. Experimental results demonstrate that, the proposed FL framework can achieve good performance for heart sound abnormality detection by taking the personal privacy protection into account. Moreover, the interpretability of the vertical FL model can be improved by using the federated feature space.
+**Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
 
 #### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
 
 ![](/figures/Graphical_Abstract.jpg)
  
 Fig. 1. Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
- 
-## Main contributions:
- * This study has developed optimisation schemes for  HFL and VFL to analyse the applications of FL in different healthcare conditions and to verify the effectiveness of the models on multi-centre heart sound databases.
- * In the HFL modelling, we propose a privacy-preserving feature ID-based security aggregation method. It has the advantage of solving the issue of aligning the feature space of federated participants in HFL.
- * The VFL model in this study is used to solve the issue of unlabelled data for some federated institutions. Further, we propose an approach to balance model interpretability and patient privacy for VFL using Shapley values.
  
 ## Results
  * Horizontally-Federated Learning vs Data-Centralised Learning
