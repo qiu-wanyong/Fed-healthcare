@@ -1,8 +1,8 @@
 # FederatedHealth_HeartSound
 
-The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
+* The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
 
-The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
+* The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
 
 # Algorithm_Model
 
