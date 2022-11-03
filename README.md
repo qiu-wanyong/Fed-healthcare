@@ -2,13 +2,13 @@
 
 * The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
 
-* Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
+#### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
 
 # Algorithm_Model
 
-#### **Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
+* Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
 
-#### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
+#### **Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
  
  
 ## Results
