@@ -9,7 +9,7 @@ Early diagnosis of cardiovascular diseases is a crucial task in medical practice
 
 #### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
 
-![](/figures/Graphical Abstract.jpg)
+![](/figures/Graphical_Abstract.jpg)
  
 Fig. 1. Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
  
@@ -41,7 +41,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
  
  Table 2. COMPARISON OF THE RESULTS (IN [%]) OF THE CONVENTIONAL  XGBOOST AND HETEROGENEOUS SECUREBOOST MODELS ON DATA  FOR EACH INSTITUTION.
 
-|            | XGBoost(Centralised Data)        |Heterogeneous-SecureBoost       |
+|            | XGBoost(Centralised Data)               |Heterogeneous-SecureBoost             |
 |            | Acc       | Se      |    Sp   |  UAR    | Acc     | Se      |    Sp   |   UAR  |
 | -----      | -----     | ----    |----     |----     |----     |-----    | ----    |----    |
 | Db         |  86.7     |85.2     |88.3     |86.8     |82.7     |82.0     |83.5     |82.7    |
