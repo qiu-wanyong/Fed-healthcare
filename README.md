@@ -19,9 +19,9 @@ The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis
 ## Results
  * Horizontally-Federated Learning vs Data-Centralised Learning
   
- ![](/figures/HFL_results.jpg)
+ ![](/figures/Awards.jpg)
  
- Fig. 4. Fig. (a)-(b) show the variation of the performance (in [%]) of the  HFL model with the number of trees. Fig. (c)-(d) shows the variation of  the performance (in [%]) of the HFL. model with tree depth.
+ Fig. 4. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
  
 Table 2. A SUMMARY OF RESULTS (IN [%]) FOR CLASSIC XGBOOST AND THE  HFL MODEL WITH OPTIMAL PARAMETERS.
 
@@ -49,23 +49,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 | Df         |  86.8     |90.9     |81.3     |86.1     |79.5     |75.5     |71.3     |78.4    |
 
 
-![](/figures/VFL_matrix.jpg)
- 
-Fig. 5. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
 
-![](/figures/MMD.jpg)
- 
-Fig. 6. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
-
-![](/figures/shap1.jpg)  
-
-Fig.7 (a) and (c) show the summary bee-swarm plot of feature importance for the testing set of institutional database Db (Shapley values).  The plot sorts the features by the sum of Shapley value magnitudes for the abnormal class samples, and uses the Shapley values to show the  distribution of the impacts of each feature on the model output. The colour represents the feature value (red high, blue low). This reveals, for example,  that a higher Shapley value for MFCC (mfcc sam[1] quartile2 numeric) reduces the performance of abnormal predictions. Take the absolute mean  of Shapley values for each feature as the importance of that feature. Fig.7 (b) shows the average feature importance bar chart for the predictions of  the abnormal class, and Fig.7 (d) shows the results for all class predictions. (Note: To observe the change in importance of the federated features,  the feature ordering in Fig.7 (a) and (b) corresponds to each other, as do Fig.7 (c) and (d).)
-  
-![](/figures/shap2.jpg)
-
-(b) The contribution of significant auDeep features from all class predictions for the FL model (average feature importance).
-
-Fig. 8. Waterfall plots can provide us with the interpretability of a single prediction, and we can observe how features affect the prediction of an  abnormal sample. The horizontal axis is the Shapley value and the vertical axis is the value taken for each feature of that sample. Blue means that  the feature has a negative effect on the prediction, and the left arrow indicates a decrease in Shapley value. Red means that the feature has a  positive effect on the prediction, and the right arrow indicates an increase in Shapley value. As shown in Fig.8 (a), E[f(x)] is the baseline value  of SHAP and Feature 1524 = 32.358 produces a negative impact of 0.5. Cumulatively, until we reach the current model output f(x) = -0.248. (An  example of abnormal sample  a0169.wav ).
   
 ## Availability
 
