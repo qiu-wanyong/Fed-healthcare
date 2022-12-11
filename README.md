@@ -4,7 +4,7 @@
 
 面向智能体音感知的联邦学习系统-基于FATE平台
 
- ![](/figures/2022FinTechathon.jpg)
+ ![](/figures/2022FinTechathon1.jpg)
 
 # FederatedHealth_HeartSound
 The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
@@ -25,7 +25,7 @@ Table 1. A SUMMARY OF RESULTS (IN [%]) FOR CLASSIC XGBOOST AND THE  HFL MODEL WI
 
 |            | Acc         | Se        |    Sp    |   UF1     |    UAR    |
 | -----      | -----       | ----      |----      |----       |----       |
-| XGBoost    |  68.4       | 69.1      |67.6      | 68.4      |   68.4    |
+| XGBoost(Centralised Data)|  68.4       | 69.1      |67.6      | 68.4      |   68.4    |
 | Homogeneous-SecureBoost  |  67.5     | 62.1     |72.8       | 67.4      |   67.5    |
 
 Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree number=30, subsample feature rate=1.0, learning rate=0.3.
@@ -37,7 +37,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
  
  Table 2. COMPARISON OF THE RESULTS (IN [%]) OF THE CONVENTIONAL  XGBOOST AND HETEROGENEOUS SECUREBOOST MODELS ON DATA  FOR EACH INSTITUTION.
 
-|            | XGBoost(Centralised Data)               |Heterogeneous-SecureBoost             |
+|            |      XGBoost(Centralised Data)|      |Heterogeneous-SecureBoost|      |
 |            | Acc       | Se      |    Sp   |  UAR    | Acc     | Se      |    Sp   |   UAR  |
 | -----      | -----     | ----    |----     |----     |----     |-----    | ----    |----    |
 | Db         |  86.7     |85.2     |88.3     |86.8     |82.7     |82.0     |83.5     |82.7    |
@@ -48,14 +48,14 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 
 ![](/figures/VFL_matrix.jpg)
  
-Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
+Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D_e database.
 
 ## Awards
   
  ![](/figures/Awards1.png)
  ![](/figures/Awards2.png)
  
- Fig. 3. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
+ Fig. 3. 2022Fintechathon Shenzhen International FinTechathon Prize. https://www.infoq.cn/zones/fintechathon/campus2022/result
 
  
 ## Availability
