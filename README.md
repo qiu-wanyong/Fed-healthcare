@@ -1,15 +1,17 @@
-# FederatedHealth_HeartSound
+# 2022FinTechathon 深圳国际金融科技大赛
+
+团队：Fed-healthcare (联邦医疗)
 
 面向智能体音感知的联邦学习系统-基于FATE平台
 
-* The source code and models for the "2022Fintechathon 深圳国际金融科技大赛".
+ ![](/figures/2022FinTechathon.jpg)
 
-# 团队：Fed-healthcare (联邦医疗)
+# FederatedHealth_HeartSound
 The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
 
 #### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
 
-# Algorithm_Model
+# Algorithm_Models
 
 * Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
 
