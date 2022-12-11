@@ -4,7 +4,7 @@
 
 面向智能体音感知的联邦学习系统-基于FATE平台
 
- ![](/figures/2022FinTechathon.jpg)
+ ![](/figures/2022FinTechathon2.jpg)
 
 # FederatedHealth_HeartSound
 The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
