@@ -1,6 +1,11 @@
 # FederatedHealth_HeartSound
 
-* The source code and models for paper "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
+面向智能体音感知的联邦学习系统-基于FATE平台：
+
+* The source code and models for the "2022Finteacthon深圳国际金融科技大赛".
+
+# 团队：Fed-healthcare(联邦医疗)
+The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
 
 #### Index Terms— Computer audition, federated learning, heart sound, information security, model interpretability
 
@@ -8,7 +13,7 @@
 
 * Paradigms and workflows of horizontal and vertical federated learning (FL) on multi-institutional heart sound databases.
 
-#### **Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the manuscript is accepted.
+#### **Note:**  We first provide the final models and the relevant experimental results for this study. Other major program files will be uploaded after the paper is accepted. "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework"
  
  
 ## Results
