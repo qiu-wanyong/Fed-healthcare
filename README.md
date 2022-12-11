@@ -1,6 +1,6 @@
 # FederatedHealth_HeartSound
 
-面向智能体音感知的联邦学习系统-基于FATE平台：
+面向智能体音感知的联邦学习系统-基于FATE平台
 
 * The source code and models for the "2022Finteacthon深圳国际金融科技大赛".
 
