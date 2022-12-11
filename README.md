@@ -52,11 +52,9 @@ Fig. 5. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  Secure
   
  ![](/figures/Awards2.png)
  
- ![](/figures/Awards.png)
+ ![](/figures/Awards1.png)
  
  Fig. 4. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
-
-<img src="https://github.com/jomaron/Fed-healthcare/tree/main/figures/Awards.png" width="200" height="200" alt="抖音小程序"/><br/>
 
  
 ## Availability
