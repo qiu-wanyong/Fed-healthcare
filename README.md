@@ -19,7 +19,7 @@ The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis
 ## Results
  * Horizontally-Federated Learning vs Data-Centralised Learning
  
-Table 2. A SUMMARY OF RESULTS (IN [%]) FOR CLASSIC XGBOOST AND THE  HFL MODEL WITH OPTIMAL PARAMETERS.
+Table 1. A SUMMARY OF RESULTS (IN [%]) FOR CLASSIC XGBOOST AND THE  HFL MODEL WITH OPTIMAL PARAMETERS.
 
 |            | Acc         | Se        |    Sp    |   UF1     |    UAR    |
 | -----      | -----       | ----      |----      |----       |----       |
@@ -30,7 +30,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 
  ![](/figures/HFL_matrix.jpg)
  
- Fig. 3. Normalised confusion matrix (in [%]) for the XGBoost and  Horizontal-SecureBoost models.
+ Fig. 1. Normalised confusion matrix (in [%]) for the XGBoost and  Horizontal-SecureBoost models.
  
  
  Table 2. COMPARISON OF THE RESULTS (IN [%]) OF THE CONVENTIONAL  XGBOOST AND HETEROGENEOUS SECUREBOOST MODELS ON DATA  FOR EACH INSTITUTION.
@@ -46,15 +46,15 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 
 ![](/figures/VFL_matrix.jpg)
  
-Fig. 5. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
+Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
 
 ## Awards
   
- ![](/figures/Awards2.png)
- 
  ![](/figures/Awards1.png)
  
- Fig. 4. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
+ ![](/figures/Awards2.png)
+ 
+ Fig. 3. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
 
  
 ## Availability
