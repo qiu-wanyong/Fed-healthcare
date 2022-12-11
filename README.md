@@ -55,7 +55,7 @@ Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  Secure
  ![](/figures/Awards1.png)
  ![](/figures/Awards2.png)
  
- Fig. 3. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
+ Fig. 3. 2022Fintechathon Shenzhen International FinTechathon Prize. https://www.infoq.cn/zones/fintechathon/campus2022/result
 
  
 ## Availability
