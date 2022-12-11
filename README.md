@@ -48,7 +48,17 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 | De         |  88.2     |85.6     |86.7     |87.8     |87.6     |82.6     |86.3     |84.3    |
 | Df         |  86.8     |90.9     |81.3     |86.1     |79.5     |75.5     |71.3     |78.4    |
 
+![](/figures/VFL_matrix.jpg)
+ 
+Fig. 5. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
 
+## Awards
+  
+ ![](/figures/Awards2.png)
+ 
+ ![](/figures/Awards.png)
+ 
+ Fig. 4. 2022Fintechathon Shenzhen International Fintech Competition First Prize.
 
   
 ## Availability
