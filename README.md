@@ -2,7 +2,7 @@
 
 面向智能体音感知的联邦学习系统-基于FATE平台
 
-* The source code and models for the "2022Fintechathon深圳国际金融科技大赛".
+* The source code and models for the "2022Fintechathon 深圳国际金融科技大赛".
 
 # 团队：Fed-healthcare(联邦医疗)
 The horizontal FL (HFL) and vertical FL (VFL) paradigms for heart sound analysis.
