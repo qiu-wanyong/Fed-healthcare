@@ -37,7 +37,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
  
  Table 2. COMPARISON OF THE RESULTS (IN [%]) OF THE CONVENTIONAL  XGBOOST AND HETEROGENEOUS SECUREBOOST MODELS ON DATA  FOR EACH INSTITUTION.
 
-|            | XGBoost(Centralised Data)               |Heterogeneous-SecureBoost             |
+|            |      XGBoost(Centralised Data)|      |Heterogeneous-SecureBoost|      |
 |            | Acc       | Se      |    Sp   |  UAR    | Acc     | Se      |    Sp   |   UAR  |
 | -----      | -----     | ----    |----     |----     |----     |-----    | ----    |----    |
 | Db         |  86.7     |85.2     |88.3     |86.8     |82.7     |82.0     |83.5     |82.7    |
@@ -48,7 +48,7 @@ Important parameters settings for the HFL and the XGBoost: tree depth=3,  tree n
 
 ![](/figures/VFL_matrix.jpg)
  
-Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D e database.
+Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  SecureBoost models trained at D_e database.
 
 ## Awards
   
