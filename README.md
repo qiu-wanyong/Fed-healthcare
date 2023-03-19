@@ -1,6 +1,6 @@
 # 2022FinTechathon 深圳国际金融科技大赛
 
-# Fed-heathcare Team Won the 2022 FinTechathon Competition First Prize!
+### Fed-heathcare Team Won the 2022 FinTechathon Competition First Prize!
 
 团队：Fed-healthcare (联邦医疗)
 
