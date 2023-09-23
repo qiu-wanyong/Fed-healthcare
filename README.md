@@ -72,6 +72,6 @@ Fig. 2. Normalised confusion matrix (in [%]) for XGBoost and Vertically-  Secure
 
 
 ## Cite As
-Wanyong Qiu, Chen Quan, Lixian Zhu, Yongzi Yu, Zhihua Wang, Yu Ma, Mengkai Sun, Yi Chang, Kun Qian*, Bin Hu∗, Yoshiharu Yamamoto and Bjoern W. Schuller, “Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework”, JBHI, pp. 1-11, Submitted, October 2022.
+Wanyong Qiu, Chen Quan, Lixian Zhu, Yongzi Yu, Zhihua Wang, Yu Ma, Mengkai Sun, Yi Chang, Kun Qian*, Bin Hu∗, Yoshiharu Yamamoto and Bjoern W. Schuller, “Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Ensemble Learning Framework”, IEEE IoTJ, pp. 1-11, Submitted, July 2023.
 
 
